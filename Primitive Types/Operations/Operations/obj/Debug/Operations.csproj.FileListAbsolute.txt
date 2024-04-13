@@ -1,0 +1,7 @@
+C:\Users\relod\source\repos\Operations\Operations\bin\Debug\Operations.exe.config
+C:\Users\relod\source\repos\Operations\Operations\bin\Debug\Operations.exe
+C:\Users\relod\source\repos\Operations\Operations\bin\Debug\Operations.pdb
+C:\Users\relod\source\repos\Operations\Operations\obj\Debug\Operations.csproj.AssemblyReference.cache
+C:\Users\relod\source\repos\Operations\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\relod\source\repos\Operations\Operations\obj\Debug\Operations.exe
+C:\Users\relod\source\repos\Operations\Operations\obj\Debug\Operations.pdb

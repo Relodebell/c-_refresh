@@ -1,0 +1,7 @@
+C:\Users\relod\source\repos\Contants\Contants\bin\Debug\Contants.exe.config
+C:\Users\relod\source\repos\Contants\Contants\bin\Debug\Contants.exe
+C:\Users\relod\source\repos\Contants\Contants\bin\Debug\Contants.pdb
+C:\Users\relod\source\repos\Contants\Contants\obj\Debug\Contants.csproj.AssemblyReference.cache
+C:\Users\relod\source\repos\Contants\Contants\obj\Debug\Contants.csproj.CoreCompileInputs.cache
+C:\Users\relod\source\repos\Contants\Contants\obj\Debug\Contants.exe
+C:\Users\relod\source\repos\Contants\Contants\obj\Debug\Contants.pdb

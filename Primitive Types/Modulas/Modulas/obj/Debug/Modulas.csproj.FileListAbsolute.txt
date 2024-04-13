@@ -1,0 +1,7 @@
+C:\Users\relod\source\repos\Modulas\Modulas\bin\Debug\Modulas.exe.config
+C:\Users\relod\source\repos\Modulas\Modulas\bin\Debug\Modulas.exe
+C:\Users\relod\source\repos\Modulas\Modulas\bin\Debug\Modulas.pdb
+C:\Users\relod\source\repos\Modulas\Modulas\obj\Debug\Modulas.csproj.AssemblyReference.cache
+C:\Users\relod\source\repos\Modulas\Modulas\obj\Debug\Modulas.csproj.CoreCompileInputs.cache
+C:\Users\relod\source\repos\Modulas\Modulas\obj\Debug\Modulas.exe
+C:\Users\relod\source\repos\Modulas\Modulas\obj\Debug\Modulas.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\relod\\source\\repos\\Exercise3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3569D59D-6669-479C-A7DF-9BD446D6394D}|Exercise3\\Exercise3.csproj|c:\\users\\relod\\source\\repos\\exercise3\\exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3569D59D-6669-479C-A7DF-9BD446D6394D}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\relod\\source\\repos\\Exercise3\\Exercise3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Program.cs",
+              "ToolTip": "C:\\Users\\relod\\source\\repos\\Exercise3\\Exercise3\\Program.cs",
+              "RelativeToolTip": "Exercise3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:40:35.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
